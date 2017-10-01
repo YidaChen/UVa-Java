@@ -1,6 +1,6 @@
 /*
-µ¹©wª½½u¤W´X­ÓÂI,§ä¥Xª½½u¤W¬YÂIÂ÷¨C¤@ÂI¦³³Ì¤pªº¶ZÂ÷©M
-¸Ñ:±Æ§ÇÂI,§ä¥X¤¤¦ì¼Æ,´`Àô²Ö¥[¶ZÂ÷®t
+çµ¦å®šç›´ç·šä¸Šå¹¾å€‹é»ž,æ‰¾å‡ºç›´ç·šä¸ŠæŸé»žé›¢æ¯ä¸€é»žæœ‰æœ€å°çš„è·é›¢å’Œ
+è§£:æŽ’åºé»ž,æ‰¾å‡ºä¸­ä½æ•¸,å¾ªç’°ç´¯åŠ è·é›¢å·®
 */
 import java.util.Scanner;
 import java.util.Arrays;

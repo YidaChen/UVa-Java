@@ -1,5 +1,5 @@
 /*
-µ¹¨â¼Æ,¨D®t
+çµ¦å…©æ•¸,æ±‚å·®
 */
 import java.util.Scanner;
 
