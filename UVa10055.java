@@ -3,7 +3,7 @@
 */
 import java.util.Scanner;
 
-public class UVa10055 {
+class UVa10055 {
 
 	public static void main(String[] args) 
 	{
