@@ -12,7 +12,7 @@ import java.util.Map.Entry;
 import java.util.Scanner;
 import java.util.Set;
 
-class UVa10008 {
+class UVa10008_WhatsCryptanalysis {
 
 	public static void main(String[] args) 
 	{

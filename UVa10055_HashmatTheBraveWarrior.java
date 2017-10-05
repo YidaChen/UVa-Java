@@ -3,7 +3,7 @@
 */
 import java.util.Scanner;
 
-class UVa10055 {
+class UVa10055_HashmatTheBraveWarrior {
 
 	public static void main(String[] args) 
 	{

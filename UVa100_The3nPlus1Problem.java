@@ -3,7 +3,7 @@
 */
 import java.util.Scanner;
 
-class UVa100 {
+class UVa100_The3nPlus1Problem {
 
 	public static void main(String[] args) 
 	{

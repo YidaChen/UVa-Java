@@ -2,7 +2,7 @@ import java.util.Scanner;
 /*
  * 打印出輸入的值於鍵盤左方2格的值
  * */
-class UVa10222 {
+class UVa10222_DecodeTheMadMan {
 
 	public static void main(String[] args) 
 	{

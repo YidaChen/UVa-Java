@@ -5,7 +5,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-class UVa10041 {
+class UVa10041_VitosFamily {
 
 	public static void main(String[] args) 
 	{

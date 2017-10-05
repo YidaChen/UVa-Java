@@ -3,7 +3,7 @@
 */
 import java.util.Scanner;
 
-class UVa10101 {
+class UVa10101_BanglaNumbers {
 
 	public static void main(String[] args) 
 	{

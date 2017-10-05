@@ -4,7 +4,7 @@
 */
 import java.util.Scanner;
 
-class UVa10929 {
+class UVa10929_YouCanSay11 {
 
 	public static void main(String[] args) 
 	{

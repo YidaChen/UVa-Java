@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-class UVa10420 {
+class UVa10420_ListOfConquests {
 
 	public static void main(String[] args) 
 	{

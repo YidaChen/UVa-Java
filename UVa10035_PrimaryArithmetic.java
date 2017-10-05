@@ -4,7 +4,7 @@
 */
 import java.util.Scanner;
 
-class UVa10035 {
+class UVa10035_PrimaryArithmetic {
 	
 	public static void main(String[] args) 
 	{
